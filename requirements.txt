@@ -1,3 +1,6 @@
 streamlit
 pandas
-streamlit_gsheets
+streamlit
+pandas
+streamlit-gsheets  
+
